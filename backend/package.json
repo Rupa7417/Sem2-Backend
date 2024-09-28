@@ -14,10 +14,6 @@
   "scripts": {
     
   },
-  "scripts": {
-    "start": "node path/to/your-main-file.js"
-  },
-
   "author": "",
   "license": "ISC",
   "description": ""
